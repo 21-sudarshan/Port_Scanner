@@ -1,0 +1,4 @@
+Target: scanme.nmap.org
+IP: 45.33.32.156
+Open Ports: [22, 80]
+Duration: 0:00:01.282471
